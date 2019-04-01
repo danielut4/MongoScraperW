@@ -19,7 +19,7 @@
     "axios"
   ],
   "author": "Daniel Morgan",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/danielut4/NewsScraper/issues"
   },
